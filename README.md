@@ -1,8 +1,8 @@
-### Hugh MacNair II
+# Hugh MacNair II
 
-## Education
+### Education
 
-## Projects
+### Projects
 
 <!--
 **hrmacnair/hrmacnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
